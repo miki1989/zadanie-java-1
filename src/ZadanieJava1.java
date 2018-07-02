@@ -13,5 +13,11 @@ public class ZadanieJava1 {
         int z;
         z = x*y;
         System.out.println(z);
+
+        System.out.println();
+        System.out.println("Kolejna próba");
+        double a = 6.0;
+        double b = 4.0;
+        System.out.println(a/b);
     }
 }
