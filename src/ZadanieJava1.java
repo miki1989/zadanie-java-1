@@ -19,5 +19,13 @@ public class ZadanieJava1 {
         double a = 6.0;
         double b = 4.0;
         System.out.println(a/b);
+
+        System.out.println();
+        System.out.println("Próba pętli:");
+        int i;
+        for(i = 100; i > 0; i-= 20 )
+        {
+            System.out.print(i + " ");
+        }
     }
 }
